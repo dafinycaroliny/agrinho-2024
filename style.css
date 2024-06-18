@@ -1,5 +1,8 @@
-.corpo{
-    background-color: aquamarine;
+
+@media  screen and (min-width: 400px) {
+    .corpo{
+
+    background-color: rgb(127, 255, 191);
 }
 
 .título{
@@ -9,4 +12,7 @@
 
 .link{
     color: aqua;
+    font-size: 10px;
+}
+    
 }
