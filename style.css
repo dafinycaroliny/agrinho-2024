@@ -2,7 +2,7 @@
 @media  screen and (min-width: 400px) {
     .corpo{
 
-    background-image: rgba(130, 209, 255, 0.801) rgba(19, 102, 255, 0.945);
+    background-image:linear-gradient( rgba(130, 209, 255, 0.801) rgba(19, 102, 255, 0.945));
 }
 
 .título{
