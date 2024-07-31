@@ -1,18 +1,18 @@
 
 @media  screen and (min-width: 400px) {
     .corpo{
-
-    background-image: linear-gradient(rgba(130, 209, 255, 0.801),rgba(19, 102, 255, 0.945));
+    
+    background-image: linear-gradient(#82d1ffcc,#0649c5f1);
 }
 
 .título{
-    color: rgb(46, 128, 175);
+    color: #00658d;
     font-size: 50px;
 
 }
 
 .link{
-    color: rgb(8, 103, 167);
+    color: #05446e;
     font-size: 20px;
 }
     
