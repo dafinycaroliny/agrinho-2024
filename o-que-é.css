@@ -3,12 +3,12 @@
 }
 
 .título{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 45px;
 }
 
 .parágrafo{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 30px;
 }
 

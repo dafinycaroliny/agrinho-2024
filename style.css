@@ -2,12 +2,13 @@
 @media  screen and (min-width: 400px) {
     .corpo{
     
-    background-image: linear-gradient(#82d1ffcc,#0b3d99f1);
+    background-image: linear-gradient(#82d1ffcc,#0f31709a);
 }
 
 .título{
     color: #00658d;
-    font-size: 50px;
+    font-size: 60px;
+    
 
 }
 .imagem{
